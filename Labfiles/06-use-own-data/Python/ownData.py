@@ -30,7 +30,7 @@ def main():
         text = input('\nEnter a question:\n')
 
         # Configure your data source
-
+        # some search stuff i didnt push
 
         # Send request to Azure OpenAI model
         print("...Sending the following request to Azure OpenAI endpoint...")
